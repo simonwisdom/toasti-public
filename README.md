@@ -1,5 +1,3 @@
-# toasti - games to delve deeper
-
 ## Privacy Policy:
 
 We do not collect any personal or usage information from our users.
